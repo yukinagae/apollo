@@ -25,3 +25,4 @@ rospkg
 plyvel == 0.9
 pyproj
 shapely
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
