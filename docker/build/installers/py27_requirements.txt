@@ -25,3 +25,4 @@ rospkg
 plyvel == 0.9
 pyproj
 shapely
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
